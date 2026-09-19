@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from Database import run_query
+from Project.Database import run_query
 
 
 def compute_future_projections():
