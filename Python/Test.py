@@ -367,17 +367,52 @@ b= 20
 
 # Cancatenation 
 
+# "Hello" +"World"
 
+# str.endswith("el.")
 
+# str. capitalize()
+# Conditional statements
 
+# age=18
+# if(age>=10):
+#     print("can vote & apply for license")
+#     age=19
+#     if (age>=10):
+#         print("can vote")
+#         print ("can drive")
 
+# Conditional statements
+# age = 20
+# if age >= 18:
+#     print("You can vote and apply for a license.")
+# elif age >= 13:
+#     print("You are a teenager.")
+# else:
+#     print("You are underage.")
 
+# # Another example using a number
+# num = 7
+# if num % 2 == 0:
+#     print("Even number")
+# else:
+#     print("Odd number")
+# Light="green"
+# if(Light=="red"):
+#     print ("stop")
+# elif (Light=="green"): 
+#     print ("go")
+# elif (Light=="yellow"):
+#     print ("look")
+#     print("end of code")
+# 
+# a=10
+# b= 20
+# sum=a+b
+# print(sum)
+# diff= a-b
+# print(diff)
 
-
-
-
-
-
-
-
-
+class student:
+    name = "Karan"
+    age
