@@ -48,11 +48,11 @@
 
 # List
 
-from pyparsing import nums
+# from pyparsing import nums
 
 
-my_list = [1, 2, 3, 4, 5]
-print(my_list)
+# my_list = [1, 2, 3, 4, 5]
+# print(my_list)
 # min_value = min (my_list)
 # print("min value is ", min_value)
 # my_list = [1,2,3,4,5]
@@ -199,7 +199,173 @@ print(my_list)
 #     print("END")
 
 
- 
+# str = """i am learning python programming language
+#         it's too easy to learn and understand
+#         i am enjoying it"""
+# # print(str.endswith("el"))
+
+# print(str.capitalize())
+
+# for i in range(5):
+#     pass
+# if i > 5:
+#     pass
+# print("some useful work")
+
+
+# n= 7
+# sum = 0
+# for i in range(1, n+1):
+#     sum += i
+# print("total sum =", sum)
+
+# n= 5
+# fact = 1
+# for i in range(1, n+1):
+#     fact *= i
+#     print("factorial =", fact)
+
+# n=5 
+# fact = 1 
+# i = 1
+# while i <= n:
+#     fact *= i
+#     i+=1
+#     print("factorial =", fact)
+
+# Print sum of two numbers:-
+# a=5
+# b=10
+# sum = a-b
+# print("sum of two numbers is ", sum)
+# print ("diff", sum)
+
+# Relational operators
+
+# a = 50
+# b =10
+# print(a==b)
+# print(a!=b)
+# print(a>b)
+# print(a<b)
+# print(a>=b)
+
+
+#assinment operators
+# a=50
+# b=20
+# num = 10
+# num =num+10, 
+# print("num:", num)
+
+# num= 10
+# num +=10
+# print ("num:", num)
+
+# num=10
+# num = num-10
+# num-=10
+# print("num:,", num)
+
+# num=10
+# num = num*10
+# num*=10
+# print("num:", num)
+
+# a=10
+# print(a)
+# a=+2
+# str1="apna"
+# str2="collage"
+# print(str1+str2)
+# print(len(str1))
+
+# a= 10
+# b=20
+# sum = a+b
+# print(sum)
+
+# diff = a-b
+# print(diff)
+# class Student:
+#     name = "Rani"
+# s1 = Student() 
+# print(s1.name)
+
+# s2 = Student()
+# print(s2.name)
+
+
+# str="apna collage"
+# print(str[1]) 
+
+# Vriables and Data Types
+
+# name = "Rani"
+# age = 20
+# print("Name:", name)
+# print("age:", age)
+
+# Integers 
+# a= 10
+# b=20
+# sum = a+b
+# print("sum of two numbers is ", sum)
+# a=10
+# b=20
+# diff = a-b
+# print("diff of two numbers is ", diff)
+
+
+# Strings 
+# str1 = "Hello"
+# str2 = "World"
+# str3 = str1 + "" + str2
+# print("Concatenated string:", str3)
+
+
+# float
+# a = 3.14
+# b = 2.5
+# c = a * b 
+# print ("product of two float numbers is ", c)
+
+
+# Boolean
+# a = True
+# b = False
+# print(a)
+# print(b)
+
+# Operators in python
+# arithmetic operators
+a= 10
+b= 20
+# sum = a+b
+# print("sum of two numbers is ",sum)
+# diff =a-b
+# print("diff of two numbers is ", diff)
+
+# print("add", a+b)
+# print("sub", a-b)
+# print("multi", a*b)
+# print("div", a/b)
+# print("modlues", a%b)
+
+# Relational operators
+# a=10
+# b=20
+# print(a==b)
+# print(a!=b)
+# print(a>b)
+# print(a<b)
+# print(a>=b)
+# print(a<=b)
+
+# String operators
+# string is data type that stores a sequence of characters.
+
+# Cancatenation 
 
 
 
@@ -208,26 +374,6 @@ print(my_list)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
 
 
 
